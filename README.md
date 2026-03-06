@@ -1,0 +1,2 @@
+# Control-of-Robotic-Arm-Mounted-on-Unmanned-Surface-Vehicle
+This study presents the first fully autonomous system to combine a vision-based object detection algorithm, sliding mode trajectory tracking, and a robotic arm mounted USV for direct rocket recovery in marine conditions. The integration of camera sensors, robotic arm, autonomous navigation, YOLO-based object detection, and SMC control is promising.
